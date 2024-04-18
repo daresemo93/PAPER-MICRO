@@ -1,0 +1,25 @@
+﻿Species;Acinetobacter iwoffii;Aeromonas bestiarum;Bacillus infantis;Bacillus pumilus;Bacillus siralis;Comamonas testosteroni;Corynebacterium striatum;Chryseobacterium joostei;Delftia acidovorans;Kluyvera ascorbata;Lactobacillus curvatus                   ;Lactobacillus jensenii;Lelliottia amnigena;Pantoea agglomerans;Proteus mirabilis;Providencia rettgeri;Pseudarthrobacter oxydans;Pseudomonas antarctica;Pseudomonas azotoformans                                       ;Pseudomonas brassicacearum;Pseudomonas chlororaphis;Pseudomonas extremorientalis;Pseudomonas fluorescens;Pseudomonas japonica;Pseudomonas jensenii;Pseudomonas kilonensis;Pseudomonas orientalis           ;Pseudomonas rhodesiae;Pseudomonas taetrolens;Pseudomonas thivervalensis;Rahnella aquatilis;Serratia liquefaciens                                                            ;Serratia marcescens;Staphylococcus xylosus
+Ade_hylaedactyla_Zamora;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Chi_bassleri_Morona_Santiago;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Cte_aequatorialis_Azuay;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0
+Den_bifurcus_Morona_Santiago;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Gas_cuencana_Azuay;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;0;1;0;1;0;0;2;0;0;1;0
+Gas_cuencana_Cañar;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+Gas_pseustes_Azuay;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hyl_vertebralis_Azuay;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0;1;0;0;0;1
+Hyl_vertebralis_Cañar;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Lit_catesbeianus_Loja;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Lit_catesbeianus_Zamora;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+Pri_andinognomus_Zamora;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Pri_balionotus_Loja;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Pri_colodactylus_Loja;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+Pri_conspicillatus_Morona_Santiago;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;1;0;0;0
+Pri_conspicillatus_Zamora;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0
+Pri_diadematus_Zamora;0;0;0;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0
+Pri_erythros_Azuay;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;2;0;0;0;0;0;0;0
+Pri_lutzae_Azuay;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0
+Pri_matildae_Loja;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Pri_samaniegoi_Loja;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Pri_versicolor_Loja;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Pri_vidua_Zamora;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sci_cruentommus_Morona_Santiago;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
